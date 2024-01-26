@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "4BvUWsiCp+PwlsDwBXHTxmnYJeDuc+KuCaf53xpA1oiHJv3JbmDV8hnepl+Wj46U7Dq9uZXUxn3Ef65TBoR4ig==",
+  "dgSpecHash": "L4h0yRWS3bSwfOyGOU70wa/YP8kZsWNk9giNMR5Lu9W1gRj2IMUVNta/ZHt9VZhaTXspsit4m5XEJSzFvFnJBA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Fairuz\\Documents\\Monopoly\\Monopoly.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Fairuz\\.nuget\\packages\\spectre.console\\0.48.0\\spectre.console.0.48.0.nupkg.sha512",
+    "C:\\Users\\Fairuz\\.nuget\\packages\\spectre.console.cli\\0.48.0\\spectre.console.cli.0.48.0.nupkg.sha512",
+    "C:\\Users\\Fairuz\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512"
+  ],
   "logs": []
 }
